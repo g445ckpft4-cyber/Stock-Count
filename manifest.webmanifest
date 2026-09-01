@@ -1,0 +1,9 @@
+{
+  "name": "Stock Count",
+  "short_name": "Stock Count",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef4ff",
+  "theme_color": "#111827",
+  "icons": []
+}
